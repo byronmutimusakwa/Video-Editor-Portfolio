@@ -3,7 +3,7 @@ const CONFIG = {
   // Get a free key at https://console.cloud.google.com/apis/credentials
   // Restrict it (Application restrictions -> Websites) to your GitHub Pages
   // domain before going live, e.g. https://yourusername.github.io/*
-  API_KEY: "AIzaSyDPQBFhMNpav1cy-SrhHVYR8gFYSrIGIq0",
+  API_KEY: "API_KEY",
 
   // Order = display order. Replace/reorder freely.
   VIDEO_IDS: [
