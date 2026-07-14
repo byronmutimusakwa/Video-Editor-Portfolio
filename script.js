@@ -6,13 +6,15 @@ const CONFIG = {
   API_KEY: "AIzaSyDPQBFhMNpav1cy-SrhHVYR8gFYSrIGIq0",
 
   // Order = display order. Replace/reorder freely.
-  VIDEO_IDS: [
+    VIDEO_IDS: [
     "hOe31Ifv2kw",
     "_cEqQ2SBDSQ",
     "UZdItupSTmE",
     "DEKCTFp7kF0",
     "myvzrIsO_5c",
     "9pBvObenU5k",
+    "Aij7at950wk",
+    "JeWZeIPtK6s",
   ],
 };
 // ------------------------------------------------------------------
