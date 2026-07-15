@@ -171,6 +171,47 @@ h1, h2 {
   color: var(--text-soft);
 }
 
+.growth-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+}
+
+.growth-card {
+  background: var(--card);
+  border: 1px solid var(--card-border);
+  border-radius: 18px;
+  box-shadow: var(--shadow);
+  padding: 22px 20px;
+}
+
+.growth-num {
+  font-family: 'Quicksand', sans-serif;
+  font-weight: 700;
+  font-size: 34px;
+  color: var(--sage);
+  margin: 0 0 8px;
+  font-variant-numeric: tabular-nums;
+}
+
+.growth-num-text {
+  font-size: 30px;
+  margin: 0 0 8px;
+}
+
+.growth-label {
+  font-size: 14px;
+  line-height: 1.5;
+  color: var(--text-soft);
+  margin: 0;
+  max-width: none;
+}
+
+.growth-label a {
+  color: var(--rose);
+  font-weight: 700;
+}
+
 .price-table {
   border: 1px solid var(--card-border);
   border-radius: 16px;
